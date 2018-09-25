@@ -1,7 +1,7 @@
-package com.devopsbuddy.web.controller;
+package com.devopsbuddy.web.controllers;
 
 import com.devopsbuddy.backend.service.EmailService;
-import com.devopsbuddy.web.domian.frontend.FeedbackPojo;
+import com.devopsbuddy.web.domain.frontend.FeedbackPojo;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,7 +1,8 @@
 package com.devopsbuddy;
 
 
-import com.devopsbuddy.web.i18n.I18NService;
+
+import com.devopsbuddy.backend.service.I18NService;
 import org.junit.Assert;
 import org.junit.Test;
 import org.junit.runner.RunWith;

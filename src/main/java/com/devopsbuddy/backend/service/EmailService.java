@@ -1,6 +1,6 @@
 package com.devopsbuddy.backend.service;
 
-import com.devopsbuddy.web.domian.frontend.FeedbackPojo;
+import com.devopsbuddy.web.domain.frontend.FeedbackPojo;
 import org.springframework.mail.SimpleMailMessage;
 
 public interface EmailService {
